@@ -15,3 +15,6 @@ This is a very small and simple bot to scrape the website Flickr and download th
 - Paste the following command to run the bot
   
   > python app.py
+
+## License
+FlickrScrape is available under the MIT license. See the LICENSE file for more info.
